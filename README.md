@@ -22,3 +22,11 @@ then a file named resultBeautify.json will generate in the same directory
 
 PS: only more than one file with the same name in different directory will be listed in resultBeautify.json
 
+## raw http to python request
+
+see comment
+
+## scanner
+
+see comment
+
