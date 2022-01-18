@@ -1,0 +1,9 @@
+baidunetdisk.exe
+code.exe
+Typora.exe
+netch.exe
+Xmp.exe
+BComparePortable.exe
+qq.exe
+WeChat.exe
+QQMusic.exe
