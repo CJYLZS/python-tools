@@ -42,9 +42,15 @@ def get_output(data):
 
 def get_path(program_name):
     # use everything's es get file abspath
+    # please make sure everything is open and es is in system path
     command = f'es -regex "\\\\{program_name}$"'
     p = Popen(command, stdout=PIPE, stderr=PIPE)
     p.wait()
+    errMsg = p.stderr.read().decode()
+    if len(errMsg) != 0:
+        # error occured
+        print(errMsg)
+        exit(-1)
     return get_output(p.stdout.read())
 
 

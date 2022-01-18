@@ -7,3 +7,6 @@ BComparePortable.exe
 qq.exe
 WeChat.exe
 QQMusic.exe
+Fiddler.exe
+Wireshark.exe
+ddosi.com.bat
