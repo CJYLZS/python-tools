@@ -9,4 +9,5 @@ WeChat.exe
 QQMusic.exe
 Fiddler.exe
 Wireshark.exe
-ddosi.com.bat
+wps.exe
+steam.exe
