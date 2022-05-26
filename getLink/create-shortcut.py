@@ -3,12 +3,14 @@ import sys
 import json
 from turtle import update
 from uuid import uuid4
-if sys.platform != 'win32':
-    print('windows only!')
-    exit(0)
 from tqdm import tqdm
 from subprocess import *
 import os
+
+if sys.platform != 'win32':
+    print('windows only!')
+    exit(0)
+
 import pythoncom
 from win32com.shell import shell
 
@@ -77,7 +79,7 @@ def create_shortcut():
 
 
 def update_quickCommand(new_explains, lnk_dirs):
-    # generate new quickCommand.json 
+    # generate new quickCommand.json
     # can import utools quickCommand plugin
     with open('quickCommand.json', 'r') as f:
         d = json.load(f)
@@ -111,6 +113,7 @@ def update_quickCommand(new_explains, lnk_dirs):
             }
     with open('quickCommand_modified.json', 'w') as f:
         json.dump(d, fp=f, indent=4, separators=',:')
+
 
 a, b = create_shortcut()
 update_quickCommand(a, b)

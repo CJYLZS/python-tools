@@ -11,3 +11,8 @@ Fiddler.exe
 Wireshark.exe
 wps.exe
 steam.exe
+WinSCP.exe
+cloudmusic.exe
+PCCast.exe
+LonelyScreen.exe
+geek.exe
