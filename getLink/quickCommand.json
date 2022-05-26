@@ -1,1 +1,201 @@
-{"0e52065c-3797-4930-8dd8-529c7cba8e65":{"features":{"code":"0e52065c-3797-4930-8dd8-529c7cba8e65","explain":"(auto inject)auto start steam.exe","cmds":["steam.exe"],"icon":"logo/quickcommand.png","platform":["win32"]},"program":"quickcommand","cmd":"open(\"D:\\\\programs\\\\steam\")","output":"ignore","hasSubInput":false,"scptarg":"","charset":{"scriptCode":"","outputCode":""},"tags":[]},"183c36bb-4c51-4ff3-a457-b4b460c048f1":{"features":{"code":"183c36bb-4c51-4ff3-a457-b4b460c048f1","explain":"(auto inject)auto start baidunetdisk.exe","cmds":["baidunetdisk.exe"],"icon":"logo/quickcommand.png","platform":["win32"]},"program":"quickcommand","cmd":"open(\"D:\\\\programs\\\\baidunetdisk\")","output":"ignore","hasSubInput":false,"scptarg":"","charset":{"scriptCode":"","outputCode":""},"tags":[]},"22220abb-26e8-45d8-aa21-d9df02e87244":{"features":{"code":"22220abb-26e8-45d8-aa21-d9df02e87244","explain":"(auto inject)auto start Typora.exe","cmds":["Typora.exe"],"icon":"logo/quickcommand.png","platform":["win32"]},"program":"quickcommand","cmd":"open(\"D:\\\\programs\\\\Typora\")","output":"ignore","hasSubInput":false,"scptarg":"","charset":{"scriptCode":"","outputCode":""},"tags":[]},"309f3c67-99d6-4995-bafc-188e366eb724":{"features":{"code":"309f3c67-99d6-4995-bafc-188e366eb724","explain":"(auto inject)auto start netch.exe","cmds":["netch.exe"],"icon":"logo/quickcommand.png","platform":["win32"]},"program":"quickcommand","cmd":"open(\"D:\\\\programs\\\\netch\")","output":"ignore","hasSubInput":false,"scptarg":"","charset":{"scriptCode":"","outputCode":""},"tags":[]},"3a4dcbc4-b302-4aa7-9ecf-ede3a9fed7cd":{"features":{"code":"3a4dcbc4-b302-4aa7-9ecf-ede3a9fed7cd","explain":"(auto inject)auto start Fiddler.exe","cmds":["Fiddler.exe"],"icon":"logo/quickcommand.png","platform":["win32"]},"program":"quickcommand","cmd":"open(\"D:\\\\programs\\\\Fiddler\")","output":"ignore","hasSubInput":false,"scptarg":"","charset":{"scriptCode":"","outputCode":""},"tags":[]},"460133f9-1967-40cd-963b-39d7f91e0ab0":{"features":{"code":"460133f9-1967-40cd-963b-39d7f91e0ab0","explain":"(auto inject)auto start WeChat.exe","cmds":["WeChat.exe"],"icon":"logo/quickcommand.png","platform":["win32"]},"program":"quickcommand","cmd":"open(\"D:\\\\programs\\\\WeChat\")","output":"ignore","hasSubInput":false,"scptarg":"","charset":{"scriptCode":"","outputCode":""},"tags":[]},"597281a3-662d-426e-aa83-cd46b95d0ed4":{"features":{"code":"597281a3-662d-426e-aa83-cd46b95d0ed4","explain":"(auto inject)auto start qq.exe","cmds":["qq.exe"],"icon":"logo/quickcommand.png","platform":["win32"]},"program":"quickcommand","cmd":"open(\"D:\\\\programs\\\\qq\")","output":"ignore","hasSubInput":false,"scptarg":"","charset":{"scriptCode":"","outputCode":""},"tags":[]},"713e32a8-e18f-4f90-8dd7-84d567501c24":{"features":{"code":"713e32a8-e18f-4f90-8dd7-84d567501c24","explain":"(auto inject)auto start BComparePortable.exe","cmds":["BComparePortable.exe"],"icon":"logo/quickcommand.png","platform":["win32"]},"program":"quickcommand","cmd":"open(\"D:\\\\programs\\\\BComparePortable\")","output":"ignore","hasSubInput":false,"scptarg":"","charset":{"scriptCode":"","outputCode":""},"tags":[]},"85ec5e3c-7b80-4729-957c-0d5898e2c432":{"features":{"code":"85ec5e3c-7b80-4729-957c-0d5898e2c432","explain":"(auto inject)auto start code.exe","cmds":["code.exe"],"icon":"logo/quickcommand.png","platform":["win32"]},"program":"quickcommand","cmd":"open(\"D:\\\\programs\\\\code\")","output":"ignore","hasSubInput":false,"scptarg":"","charset":{"scriptCode":"","outputCode":""},"tags":[]},"9c903154-af17-468f-8fef-c6f9060189aa":{"features":{"code":"9c903154-af17-468f-8fef-c6f9060189aa","explain":"(auto inject)auto start wps.exe","cmds":["wps.exe"],"icon":"logo/quickcommand.png","platform":["win32"]},"program":"quickcommand","cmd":"open(\"D:\\\\programs\\\\wps\")","output":"ignore","hasSubInput":false,"scptarg":"","charset":{"scriptCode":"","outputCode":""},"tags":[]},"afc7b242-aa10-45c9-bef1-c98ec084faf8":{"features":{"code":"afc7b242-aa10-45c9-bef1-c98ec084faf8","explain":"(auto inject)auto start Wireshark.exe","cmds":["Wireshark.exe"],"icon":"logo/quickcommand.png","platform":["win32"]},"program":"quickcommand","cmd":"open(\"D:\\\\programs\\\\Wireshark\")","output":"ignore","hasSubInput":false,"scptarg":"","charset":{"scriptCode":"","outputCode":""},"tags":[]},"b786250a-4eea-4375-9faa-dedbacf0fcef":{"features":{"code":"b786250a-4eea-4375-9faa-dedbacf0fcef","explain":"(auto inject)auto start QQMusic.exe","cmds":["QQMusic.exe"],"icon":"logo/quickcommand.png","platform":["win32"]},"program":"quickcommand","cmd":"open(\"D:\\\\programs\\\\QQMusic\")","output":"ignore","hasSubInput":false,"scptarg":"","charset":{"scriptCode":"","outputCode":""},"tags":[]},"f53b9d86-8d97-4d62-a3cf-73efb3b3192e":{"features":{"code":"f53b9d86-8d97-4d62-a3cf-73efb3b3192e","explain":"(auto inject)auto start Xmp.exe","cmds":["Xmp.exe"],"icon":"logo/quickcommand.png","platform":["win32"]},"program":"quickcommand","cmd":"open(\"D:\\\\programs\\\\Xmp\")","output":"ignore","hasSubInput":false,"scptarg":"","charset":{"scriptCode":"","outputCode":""},"tags":[]},"key_111e7ry2ta8":{"features":{"code":"key_111e7ry2ta8","explain":"python code dir","cmds":["python"],"icon":"logo/quickcommand.png","platform":["win32","darwin","linux"]},"program":"quickcommand","cmd":"system('code d:\\\\code\\\\python')","output":"ignore","hasSubInput":false,"scptarg":"","charset":{"scriptCode":"","outputCode":""},"tags":[]},"key_16jwc8bpyif":{"features":{"code":"key_16jwc8bpyif","explain":"python tools","cmds":["tools"],"icon":"logo/quickcommand.png","platform":["win32","darwin","linux"]},"program":"quickcommand","cmd":"system(\"code d:\\\\code\\\\python\\\\tools\")","output":"ignore","hasSubInput":false,"scptarg":"","charset":{},"tags":[]},"key_24md6admvd7":{"features":{"code":"key_24md6admvd7","explain":"systools dir","cmds":["systools"],"icon":"logo/quickcommand.png","platform":["win32","darwin","linux"]},"program":"quickcommand","cmd":"open(\"D:\\\\usb_tools\\\\x64\\\\tools\\\\system\")","output":"ignore","hasSubInput":false,"scptarg":"","charset":{"scriptCode":"","outputCode":""},"tags":[]},"key_2amlcf3aqic":{"features":{"code":"key_2amlcf3aqic","explain":"study dir","cmds":["study"],"icon":"logo/quickcommand.png","platform":["win32","darwin","linux"]},"program":"quickcommand","cmd":"open(\"d:\\\\study\")\n","output":"ignore","hasSubInput":false,"scptarg":"","charset":{},"tags":[]},"key_b8okecsriy":{"features":{"code":"key_b8okecsriy","explain":"software dir","cmds":["software"],"icon":"logo/quickcommand.png","platform":["win32","darwin","linux"]},"program":"quickcommand","cmd":"open(\"d:\\\\software\")\n","output":"ignore","hasSubInput":false,"scptarg":"","charset":{"scriptCode":"","outputCode":""},"tags":[]},"key_w45qy3q488":{"features":{"code":"key_w45qy3q488","explain":"test dir","cmds":["test"],"icon":"logo/quickcommand.png","platform":["win32","darwin","linux"]},"program":"quickcommand","cmd":"open(\"d:\\\\code\\\\go\\\\src\")","output":"ignore","hasSubInput":false,"scptarg":"","charset":{"scriptCode":"","outputCode":""},"tags":[]},"key_w45qy3q489":{"features":{"code":"key_w45qy3q489","explain":"go dir","cmds":["go"],"icon":"logo/quickcommand.png","platform":["win32","darwin","linux"]},"program":"quickcommand","cmd":"open(\"d:\\\\code\\\\go\\\\src\")","output":"ignore","hasSubInput":false,"scptarg":"","charset":{"scriptCode":"","outputCode":""},"tags":[]}}
+{
+    "key_111e7ry2ta8": {
+        "features": {
+            "code": "key_111e7ry2ta8",
+            "explain": "python code dir",
+            "cmds": [
+                "python"
+            ],
+            "icon": "logo/quickcommand.png",
+            "platform": [
+                "win32",
+                "darwin",
+                "linux"
+            ]
+        },
+        "program": "quickcommand",
+        "cmd": "system('code d:\\\\code\\\\python')",
+        "output": "ignore",
+        "hasSubInput": false,
+        "scptarg": "",
+        "charset": {
+            "scriptCode": "",
+            "outputCode": ""
+        },
+        "tags": []
+    },
+    "key_16jwc8bpyif": {
+        "features": {
+            "code": "key_16jwc8bpyif",
+            "explain": "python tools",
+            "cmds": [
+                "tools"
+            ],
+            "icon": "logo/quickcommand.png",
+            "platform": [
+                "win32",
+                "darwin",
+                "linux"
+            ]
+        },
+        "program": "quickcommand",
+        "cmd": "system(\"code d:\\\\code\\\\python\\\\tools\")",
+        "output": "ignore",
+        "hasSubInput": false,
+        "scptarg": "",
+        "charset": {},
+        "tags": []
+    },
+    "key_24md6admvd7": {
+        "features": {
+            "code": "key_24md6admvd7",
+            "explain": "systools dir",
+            "cmds": [
+                "systools"
+            ],
+            "icon": "logo/quickcommand.png",
+            "platform": [
+                "win32",
+                "darwin",
+                "linux"
+            ]
+        },
+        "program": "quickcommand",
+        "cmd": "open(\"D:\\\\usb_tools\\\\x64\\\\tools\\\\system\")",
+        "output": "ignore",
+        "hasSubInput": false,
+        "scptarg": "",
+        "charset": {
+            "scriptCode": "",
+            "outputCode": ""
+        },
+        "tags": []
+    },
+    "key_28ybzi1armq": {
+        "program": "quickcommand",
+        "cmd": "open(\"d:\\\\programs\\\\typora\")",
+        "scptarg": "",
+        "charset": {
+            "scriptCode": "",
+            "outputCode": ""
+        },
+        "customOptions": {
+            "bin": "",
+            "argv": "",
+            "ext": ""
+        },
+        "features": {
+            "explain": " fuck",
+            "platform": [
+                "win32",
+                "linux",
+                "darwin"
+            ],
+            "icon": "logo/quickcommand.png",
+            "code": "key_28ybzi1armq",
+            "cmds": [
+                "fuck"
+            ]
+        },
+        "output": "ignore",
+        "tags": [],
+        "hasSubInput": false
+    },
+    "key_2amlcf3aqic": {
+        "features": {
+            "code": "key_2amlcf3aqic",
+            "explain": "study dir",
+            "cmds": [
+                "study"
+            ],
+            "icon": "logo/quickcommand.png",
+            "platform": [
+                "win32",
+                "darwin",
+                "linux"
+            ]
+        },
+        "program": "quickcommand",
+        "cmd": "open(\"d:\\\\study\")\n",
+        "output": "ignore",
+        "hasSubInput": false,
+        "scptarg": "",
+        "charset": {},
+        "tags": []
+    },
+    "key_b8okecsriy": {
+        "features": {
+            "code": "key_b8okecsriy",
+            "explain": "software dir",
+            "cmds": [
+                "software"
+            ],
+            "icon": "logo/quickcommand.png",
+            "platform": [
+                "win32",
+                "darwin",
+                "linux"
+            ]
+        },
+        "program": "quickcommand",
+        "cmd": "open(\"d:\\\\software\")\n",
+        "output": "ignore",
+        "hasSubInput": false,
+        "scptarg": "",
+        "charset": {
+            "scriptCode": "",
+            "outputCode": ""
+        },
+        "tags": []
+    },
+    "key_w45qy3q488": {
+        "features": {
+            "code": "key_w45qy3q488",
+            "explain": "test dir",
+            "cmds": [
+                "test"
+            ],
+            "icon": "logo/quickcommand.png",
+            "platform": [
+                "win32",
+                "darwin",
+                "linux"
+            ]
+        },
+        "program": "quickcommand",
+        "cmd": "open(\"d:\\\\code\\\\go\\\\src\")",
+        "output": "ignore",
+        "hasSubInput": false,
+        "scptarg": "",
+        "charset": {
+            "scriptCode": "",
+            "outputCode": ""
+        },
+        "tags": []
+    },
+    "key_w45qy3q489": {
+        "features": {
+            "code": "key_w45qy3q489",
+            "explain": "go dir",
+            "cmds": [
+                "go"
+            ],
+            "icon": "logo/quickcommand.png",
+            "platform": [
+                "win32",
+                "darwin",
+                "linux"
+            ]
+        },
+        "program": "quickcommand",
+        "cmd": "open(\"d:\\\\code\\\\go\\\\src\")",
+        "output": "ignore",
+        "hasSubInput": false,
+        "scptarg": "",
+        "charset": {
+            "scriptCode": "",
+            "outputCode": ""
+        },
+        "tags": []
+    }
+}

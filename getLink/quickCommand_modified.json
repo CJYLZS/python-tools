@@ -1,303 +1,4 @@
 {
-    "0e52065c-3797-4930-8dd8-529c7cba8e65":{
-        "features":{
-            "code":"0e52065c-3797-4930-8dd8-529c7cba8e65",
-            "explain":"(auto inject)auto start steam.exe",
-            "cmds":[
-                "steam.exe"
-            ],
-            "icon":"logo/quickcommand.png",
-            "platform":[
-                "win32"
-            ]
-        },
-        "program":"quickcommand",
-        "cmd":"open(\"D:\\\\programs\\\\steam\")",
-        "output":"ignore",
-        "hasSubInput":false,
-        "scptarg":"",
-        "charset":{
-            "scriptCode":"",
-            "outputCode":""
-        },
-        "tags":[]
-    },
-    "183c36bb-4c51-4ff3-a457-b4b460c048f1":{
-        "features":{
-            "code":"183c36bb-4c51-4ff3-a457-b4b460c048f1",
-            "explain":"(auto inject)auto start baidunetdisk.exe",
-            "cmds":[
-                "baidunetdisk.exe"
-            ],
-            "icon":"logo/quickcommand.png",
-            "platform":[
-                "win32"
-            ]
-        },
-        "program":"quickcommand",
-        "cmd":"open(\"D:\\\\programs\\\\baidunetdisk\")",
-        "output":"ignore",
-        "hasSubInput":false,
-        "scptarg":"",
-        "charset":{
-            "scriptCode":"",
-            "outputCode":""
-        },
-        "tags":[]
-    },
-    "22220abb-26e8-45d8-aa21-d9df02e87244":{
-        "features":{
-            "code":"22220abb-26e8-45d8-aa21-d9df02e87244",
-            "explain":"(auto inject)auto start Typora.exe",
-            "cmds":[
-                "Typora.exe"
-            ],
-            "icon":"logo/quickcommand.png",
-            "platform":[
-                "win32"
-            ]
-        },
-        "program":"quickcommand",
-        "cmd":"open(\"D:\\\\programs\\\\Typora\")",
-        "output":"ignore",
-        "hasSubInput":false,
-        "scptarg":"",
-        "charset":{
-            "scriptCode":"",
-            "outputCode":""
-        },
-        "tags":[]
-    },
-    "309f3c67-99d6-4995-bafc-188e366eb724":{
-        "features":{
-            "code":"309f3c67-99d6-4995-bafc-188e366eb724",
-            "explain":"(auto inject)auto start netch.exe",
-            "cmds":[
-                "netch.exe"
-            ],
-            "icon":"logo/quickcommand.png",
-            "platform":[
-                "win32"
-            ]
-        },
-        "program":"quickcommand",
-        "cmd":"open(\"D:\\\\programs\\\\netch\")",
-        "output":"ignore",
-        "hasSubInput":false,
-        "scptarg":"",
-        "charset":{
-            "scriptCode":"",
-            "outputCode":""
-        },
-        "tags":[]
-    },
-    "3a4dcbc4-b302-4aa7-9ecf-ede3a9fed7cd":{
-        "features":{
-            "code":"3a4dcbc4-b302-4aa7-9ecf-ede3a9fed7cd",
-            "explain":"(auto inject)auto start Fiddler.exe",
-            "cmds":[
-                "Fiddler.exe"
-            ],
-            "icon":"logo/quickcommand.png",
-            "platform":[
-                "win32"
-            ]
-        },
-        "program":"quickcommand",
-        "cmd":"open(\"D:\\\\programs\\\\Fiddler\")",
-        "output":"ignore",
-        "hasSubInput":false,
-        "scptarg":"",
-        "charset":{
-            "scriptCode":"",
-            "outputCode":""
-        },
-        "tags":[]
-    },
-    "460133f9-1967-40cd-963b-39d7f91e0ab0":{
-        "features":{
-            "code":"460133f9-1967-40cd-963b-39d7f91e0ab0",
-            "explain":"(auto inject)auto start WeChat.exe",
-            "cmds":[
-                "WeChat.exe"
-            ],
-            "icon":"logo/quickcommand.png",
-            "platform":[
-                "win32"
-            ]
-        },
-        "program":"quickcommand",
-        "cmd":"open(\"D:\\\\programs\\\\WeChat\")",
-        "output":"ignore",
-        "hasSubInput":false,
-        "scptarg":"",
-        "charset":{
-            "scriptCode":"",
-            "outputCode":""
-        },
-        "tags":[]
-    },
-    "597281a3-662d-426e-aa83-cd46b95d0ed4":{
-        "features":{
-            "code":"597281a3-662d-426e-aa83-cd46b95d0ed4",
-            "explain":"(auto inject)auto start qq.exe",
-            "cmds":[
-                "qq.exe"
-            ],
-            "icon":"logo/quickcommand.png",
-            "platform":[
-                "win32"
-            ]
-        },
-        "program":"quickcommand",
-        "cmd":"open(\"D:\\\\programs\\\\qq\")",
-        "output":"ignore",
-        "hasSubInput":false,
-        "scptarg":"",
-        "charset":{
-            "scriptCode":"",
-            "outputCode":""
-        },
-        "tags":[]
-    },
-    "713e32a8-e18f-4f90-8dd7-84d567501c24":{
-        "features":{
-            "code":"713e32a8-e18f-4f90-8dd7-84d567501c24",
-            "explain":"(auto inject)auto start BComparePortable.exe",
-            "cmds":[
-                "BComparePortable.exe"
-            ],
-            "icon":"logo/quickcommand.png",
-            "platform":[
-                "win32"
-            ]
-        },
-        "program":"quickcommand",
-        "cmd":"open(\"D:\\\\programs\\\\BComparePortable\")",
-        "output":"ignore",
-        "hasSubInput":false,
-        "scptarg":"",
-        "charset":{
-            "scriptCode":"",
-            "outputCode":""
-        },
-        "tags":[]
-    },
-    "85ec5e3c-7b80-4729-957c-0d5898e2c432":{
-        "features":{
-            "code":"85ec5e3c-7b80-4729-957c-0d5898e2c432",
-            "explain":"(auto inject)auto start code.exe",
-            "cmds":[
-                "code.exe"
-            ],
-            "icon":"logo/quickcommand.png",
-            "platform":[
-                "win32"
-            ]
-        },
-        "program":"quickcommand",
-        "cmd":"open(\"D:\\\\programs\\\\code\")",
-        "output":"ignore",
-        "hasSubInput":false,
-        "scptarg":"",
-        "charset":{
-            "scriptCode":"",
-            "outputCode":""
-        },
-        "tags":[]
-    },
-    "9c903154-af17-468f-8fef-c6f9060189aa":{
-        "features":{
-            "code":"9c903154-af17-468f-8fef-c6f9060189aa",
-            "explain":"(auto inject)auto start wps.exe",
-            "cmds":[
-                "wps.exe"
-            ],
-            "icon":"logo/quickcommand.png",
-            "platform":[
-                "win32"
-            ]
-        },
-        "program":"quickcommand",
-        "cmd":"open(\"D:\\\\programs\\\\wps\")",
-        "output":"ignore",
-        "hasSubInput":false,
-        "scptarg":"",
-        "charset":{
-            "scriptCode":"",
-            "outputCode":""
-        },
-        "tags":[]
-    },
-    "afc7b242-aa10-45c9-bef1-c98ec084faf8":{
-        "features":{
-            "code":"afc7b242-aa10-45c9-bef1-c98ec084faf8",
-            "explain":"(auto inject)auto start Wireshark.exe",
-            "cmds":[
-                "Wireshark.exe"
-            ],
-            "icon":"logo/quickcommand.png",
-            "platform":[
-                "win32"
-            ]
-        },
-        "program":"quickcommand",
-        "cmd":"open(\"D:\\\\programs\\\\Wireshark\")",
-        "output":"ignore",
-        "hasSubInput":false,
-        "scptarg":"",
-        "charset":{
-            "scriptCode":"",
-            "outputCode":""
-        },
-        "tags":[]
-    },
-    "b786250a-4eea-4375-9faa-dedbacf0fcef":{
-        "features":{
-            "code":"b786250a-4eea-4375-9faa-dedbacf0fcef",
-            "explain":"(auto inject)auto start QQMusic.exe",
-            "cmds":[
-                "QQMusic.exe"
-            ],
-            "icon":"logo/quickcommand.png",
-            "platform":[
-                "win32"
-            ]
-        },
-        "program":"quickcommand",
-        "cmd":"open(\"D:\\\\programs\\\\QQMusic\")",
-        "output":"ignore",
-        "hasSubInput":false,
-        "scptarg":"",
-        "charset":{
-            "scriptCode":"",
-            "outputCode":""
-        },
-        "tags":[]
-    },
-    "f53b9d86-8d97-4d62-a3cf-73efb3b3192e":{
-        "features":{
-            "code":"f53b9d86-8d97-4d62-a3cf-73efb3b3192e",
-            "explain":"(auto inject)auto start Xmp.exe",
-            "cmds":[
-                "Xmp.exe"
-            ],
-            "icon":"logo/quickcommand.png",
-            "platform":[
-                "win32"
-            ]
-        },
-        "program":"quickcommand",
-        "cmd":"open(\"D:\\\\programs\\\\Xmp\")",
-        "output":"ignore",
-        "hasSubInput":false,
-        "scptarg":"",
-        "charset":{
-            "scriptCode":"",
-            "outputCode":""
-        },
-        "tags":[]
-    },
     "key_111e7ry2ta8":{
         "features":{
             "code":"key_111e7ry2ta8",
@@ -369,6 +70,36 @@
             "outputCode":""
         },
         "tags":[]
+    },
+    "key_28ybzi1armq":{
+        "program":"quickcommand",
+        "cmd":"open(\"d:\\\\programs\\\\typora\")",
+        "scptarg":"",
+        "charset":{
+            "scriptCode":"",
+            "outputCode":""
+        },
+        "customOptions":{
+            "bin":"",
+            "argv":"",
+            "ext":""
+        },
+        "features":{
+            "explain":" fuck",
+            "platform":[
+                "win32",
+                "linux",
+                "darwin"
+            ],
+            "icon":"logo/quickcommand.png",
+            "code":"key_28ybzi1armq",
+            "cmds":[
+                "fuck"
+            ]
+        },
+        "output":"ignore",
+        "tags":[],
+        "hasSubInput":false
     },
     "key_2amlcf3aqic":{
         "features":{
@@ -467,16 +198,408 @@
         },
         "tags":[]
     },
-    "c9ff5923-7425-4605-92f3-13c96922d781":{
+    "key_27a3c90271f7497ea720e79b175b8162":{
         "features":{
-            "code":"c9ff5923-7425-4605-92f3-13c96922d781",
+            "code":"key_27a3c90271f7497ea720e79b175b8162",
+            "explain":"(auto inject)auto start baidunetdisk.exe",
+            "cmds":[
+                "baidunetdisk.exe"
+            ],
+            "icon":"logo/quickcommand.png",
+            "platform":[
+                "win32",
+                "linux",
+                "darwin"
+            ]
+        },
+        "program":"quickcommand",
+        "cmd":"open(\"D:\\\\programs\\\\baidunetdisk\")",
+        "output":"ignore",
+        "hasSubInput":false,
+        "scptarg":"",
+        "charset":{
+            "scriptCode":"",
+            "outputCode":""
+        },
+        "tags":[],
+        "customOptions":{
+            "bin":"",
+            "argv":"",
+            "ext":""
+        }
+    },
+    "key_c039cb9e60da44f09b5ebe4adc9d55bc":{
+        "features":{
+            "code":"key_c039cb9e60da44f09b5ebe4adc9d55bc",
+            "explain":"(auto inject)auto start code.exe",
+            "cmds":[
+                "code.exe"
+            ],
+            "icon":"logo/quickcommand.png",
+            "platform":[
+                "win32",
+                "linux",
+                "darwin"
+            ]
+        },
+        "program":"quickcommand",
+        "cmd":"open(\"D:\\\\programs\\\\code\")",
+        "output":"ignore",
+        "hasSubInput":false,
+        "scptarg":"",
+        "charset":{
+            "scriptCode":"",
+            "outputCode":""
+        },
+        "tags":[],
+        "customOptions":{
+            "bin":"",
+            "argv":"",
+            "ext":""
+        }
+    },
+    "key_bd2a598b1f72414fbcbfe61210909547":{
+        "features":{
+            "code":"key_bd2a598b1f72414fbcbfe61210909547",
+            "explain":"(auto inject)auto start Typora.exe",
+            "cmds":[
+                "Typora.exe"
+            ],
+            "icon":"logo/quickcommand.png",
+            "platform":[
+                "win32",
+                "linux",
+                "darwin"
+            ]
+        },
+        "program":"quickcommand",
+        "cmd":"open(\"D:\\\\programs\\\\Typora\")",
+        "output":"ignore",
+        "hasSubInput":false,
+        "scptarg":"",
+        "charset":{
+            "scriptCode":"",
+            "outputCode":""
+        },
+        "tags":[],
+        "customOptions":{
+            "bin":"",
+            "argv":"",
+            "ext":""
+        }
+    },
+    "key_4765069c26294829a36fb13fa59061ec":{
+        "features":{
+            "code":"key_4765069c26294829a36fb13fa59061ec",
+            "explain":"(auto inject)auto start netch.exe",
+            "cmds":[
+                "netch.exe"
+            ],
+            "icon":"logo/quickcommand.png",
+            "platform":[
+                "win32",
+                "linux",
+                "darwin"
+            ]
+        },
+        "program":"quickcommand",
+        "cmd":"open(\"D:\\\\programs\\\\netch\")",
+        "output":"ignore",
+        "hasSubInput":false,
+        "scptarg":"",
+        "charset":{
+            "scriptCode":"",
+            "outputCode":""
+        },
+        "tags":[],
+        "customOptions":{
+            "bin":"",
+            "argv":"",
+            "ext":""
+        }
+    },
+    "key_ce300a159aac4eac8ff443c27fae7a5b":{
+        "features":{
+            "code":"key_ce300a159aac4eac8ff443c27fae7a5b",
+            "explain":"(auto inject)auto start Xmp.exe",
+            "cmds":[
+                "Xmp.exe"
+            ],
+            "icon":"logo/quickcommand.png",
+            "platform":[
+                "win32",
+                "linux",
+                "darwin"
+            ]
+        },
+        "program":"quickcommand",
+        "cmd":"open(\"D:\\\\programs\\\\Xmp\")",
+        "output":"ignore",
+        "hasSubInput":false,
+        "scptarg":"",
+        "charset":{
+            "scriptCode":"",
+            "outputCode":""
+        },
+        "tags":[],
+        "customOptions":{
+            "bin":"",
+            "argv":"",
+            "ext":""
+        }
+    },
+    "key_4fcc94735be24e5d99ddd2a64d6eb470":{
+        "features":{
+            "code":"key_4fcc94735be24e5d99ddd2a64d6eb470",
+            "explain":"(auto inject)auto start BComparePortable.exe",
+            "cmds":[
+                "BComparePortable.exe"
+            ],
+            "icon":"logo/quickcommand.png",
+            "platform":[
+                "win32",
+                "linux",
+                "darwin"
+            ]
+        },
+        "program":"quickcommand",
+        "cmd":"open(\"D:\\\\programs\\\\BComparePortable\")",
+        "output":"ignore",
+        "hasSubInput":false,
+        "scptarg":"",
+        "charset":{
+            "scriptCode":"",
+            "outputCode":""
+        },
+        "tags":[],
+        "customOptions":{
+            "bin":"",
+            "argv":"",
+            "ext":""
+        }
+    },
+    "key_4a08d0690168451a853b86d3dee85efc":{
+        "features":{
+            "code":"key_4a08d0690168451a853b86d3dee85efc",
+            "explain":"(auto inject)auto start qq.exe",
+            "cmds":[
+                "qq.exe"
+            ],
+            "icon":"logo/quickcommand.png",
+            "platform":[
+                "win32",
+                "linux",
+                "darwin"
+            ]
+        },
+        "program":"quickcommand",
+        "cmd":"open(\"D:\\\\programs\\\\qq\")",
+        "output":"ignore",
+        "hasSubInput":false,
+        "scptarg":"",
+        "charset":{
+            "scriptCode":"",
+            "outputCode":""
+        },
+        "tags":[],
+        "customOptions":{
+            "bin":"",
+            "argv":"",
+            "ext":""
+        }
+    },
+    "key_c713d167bcff41f4a482405f45a337d0":{
+        "features":{
+            "code":"key_c713d167bcff41f4a482405f45a337d0",
+            "explain":"(auto inject)auto start WeChat.exe",
+            "cmds":[
+                "WeChat.exe"
+            ],
+            "icon":"logo/quickcommand.png",
+            "platform":[
+                "win32",
+                "linux",
+                "darwin"
+            ]
+        },
+        "program":"quickcommand",
+        "cmd":"open(\"D:\\\\programs\\\\WeChat\")",
+        "output":"ignore",
+        "hasSubInput":false,
+        "scptarg":"",
+        "charset":{
+            "scriptCode":"",
+            "outputCode":""
+        },
+        "tags":[],
+        "customOptions":{
+            "bin":"",
+            "argv":"",
+            "ext":""
+        }
+    },
+    "key_a4c9a2df22114afbab5b635706f28fc1":{
+        "features":{
+            "code":"key_a4c9a2df22114afbab5b635706f28fc1",
+            "explain":"(auto inject)auto start QQMusic.exe",
+            "cmds":[
+                "QQMusic.exe"
+            ],
+            "icon":"logo/quickcommand.png",
+            "platform":[
+                "win32",
+                "linux",
+                "darwin"
+            ]
+        },
+        "program":"quickcommand",
+        "cmd":"open(\"D:\\\\programs\\\\QQMusic\")",
+        "output":"ignore",
+        "hasSubInput":false,
+        "scptarg":"",
+        "charset":{
+            "scriptCode":"",
+            "outputCode":""
+        },
+        "tags":[],
+        "customOptions":{
+            "bin":"",
+            "argv":"",
+            "ext":""
+        }
+    },
+    "key_26cc439fd05842a2997801c66b150ef3":{
+        "features":{
+            "code":"key_26cc439fd05842a2997801c66b150ef3",
+            "explain":"(auto inject)auto start Fiddler.exe",
+            "cmds":[
+                "Fiddler.exe"
+            ],
+            "icon":"logo/quickcommand.png",
+            "platform":[
+                "win32",
+                "linux",
+                "darwin"
+            ]
+        },
+        "program":"quickcommand",
+        "cmd":"open(\"D:\\\\programs\\\\Fiddler\")",
+        "output":"ignore",
+        "hasSubInput":false,
+        "scptarg":"",
+        "charset":{
+            "scriptCode":"",
+            "outputCode":""
+        },
+        "tags":[],
+        "customOptions":{
+            "bin":"",
+            "argv":"",
+            "ext":""
+        }
+    },
+    "key_c3dbd0e09859406eb1a6d83e944b0da8":{
+        "features":{
+            "code":"key_c3dbd0e09859406eb1a6d83e944b0da8",
+            "explain":"(auto inject)auto start Wireshark.exe",
+            "cmds":[
+                "Wireshark.exe"
+            ],
+            "icon":"logo/quickcommand.png",
+            "platform":[
+                "win32",
+                "linux",
+                "darwin"
+            ]
+        },
+        "program":"quickcommand",
+        "cmd":"open(\"D:\\\\programs\\\\Wireshark\")",
+        "output":"ignore",
+        "hasSubInput":false,
+        "scptarg":"",
+        "charset":{
+            "scriptCode":"",
+            "outputCode":""
+        },
+        "tags":[],
+        "customOptions":{
+            "bin":"",
+            "argv":"",
+            "ext":""
+        }
+    },
+    "key_fadef954727f41c0ad7ac8e5854bf5fa":{
+        "features":{
+            "code":"key_fadef954727f41c0ad7ac8e5854bf5fa",
+            "explain":"(auto inject)auto start wps.exe",
+            "cmds":[
+                "wps.exe"
+            ],
+            "icon":"logo/quickcommand.png",
+            "platform":[
+                "win32",
+                "linux",
+                "darwin"
+            ]
+        },
+        "program":"quickcommand",
+        "cmd":"open(\"D:\\\\programs\\\\wps\")",
+        "output":"ignore",
+        "hasSubInput":false,
+        "scptarg":"",
+        "charset":{
+            "scriptCode":"",
+            "outputCode":""
+        },
+        "tags":[],
+        "customOptions":{
+            "bin":"",
+            "argv":"",
+            "ext":""
+        }
+    },
+    "key_cfcf4c52b5f44084922359a557683f9f":{
+        "features":{
+            "code":"key_cfcf4c52b5f44084922359a557683f9f",
+            "explain":"(auto inject)auto start steam.exe",
+            "cmds":[
+                "steam.exe"
+            ],
+            "icon":"logo/quickcommand.png",
+            "platform":[
+                "win32",
+                "linux",
+                "darwin"
+            ]
+        },
+        "program":"quickcommand",
+        "cmd":"open(\"D:\\\\programs\\\\steam\")",
+        "output":"ignore",
+        "hasSubInput":false,
+        "scptarg":"",
+        "charset":{
+            "scriptCode":"",
+            "outputCode":""
+        },
+        "tags":[],
+        "customOptions":{
+            "bin":"",
+            "argv":"",
+            "ext":""
+        }
+    },
+    "key_16818758aa814a3d8a587cc54856fb8f":{
+        "features":{
+            "code":"key_16818758aa814a3d8a587cc54856fb8f",
             "explain":"(auto inject)auto start WinSCP.exe",
             "cmds":[
                 "WinSCP.exe"
             ],
             "icon":"logo/quickcommand.png",
             "platform":[
-                "win32"
+                "win32",
+                "linux",
+                "darwin"
             ]
         },
         "program":"quickcommand",
@@ -488,18 +611,25 @@
             "scriptCode":"",
             "outputCode":""
         },
-        "tags":[]
+        "tags":[],
+        "customOptions":{
+            "bin":"",
+            "argv":"",
+            "ext":""
+        }
     },
-    "2973ded4-7f0d-418a-82a4-9b37706440dc":{
+    "key_cf5e9d1e8f9f47028eb3e07ece20b37b":{
         "features":{
-            "code":"2973ded4-7f0d-418a-82a4-9b37706440dc",
+            "code":"key_cf5e9d1e8f9f47028eb3e07ece20b37b",
             "explain":"(auto inject)auto start cloudmusic.exe",
             "cmds":[
                 "cloudmusic.exe"
             ],
             "icon":"logo/quickcommand.png",
             "platform":[
-                "win32"
+                "win32",
+                "linux",
+                "darwin"
             ]
         },
         "program":"quickcommand",
@@ -511,18 +641,25 @@
             "scriptCode":"",
             "outputCode":""
         },
-        "tags":[]
+        "tags":[],
+        "customOptions":{
+            "bin":"",
+            "argv":"",
+            "ext":""
+        }
     },
-    "e37c80f3-d69b-447c-bc00-f0b8ef558a0a":{
+    "key_f5083f9f160b4c1db0e273f5231ea2cb":{
         "features":{
-            "code":"e37c80f3-d69b-447c-bc00-f0b8ef558a0a",
+            "code":"key_f5083f9f160b4c1db0e273f5231ea2cb",
             "explain":"(auto inject)auto start PCCast.exe",
             "cmds":[
                 "PCCast.exe"
             ],
             "icon":"logo/quickcommand.png",
             "platform":[
-                "win32"
+                "win32",
+                "linux",
+                "darwin"
             ]
         },
         "program":"quickcommand",
@@ -534,18 +671,25 @@
             "scriptCode":"",
             "outputCode":""
         },
-        "tags":[]
+        "tags":[],
+        "customOptions":{
+            "bin":"",
+            "argv":"",
+            "ext":""
+        }
     },
-    "dd9cfecd-0505-4a47-879c-168164bbb169":{
+    "key_22c9787ef8af45668e93b3d79067cae3":{
         "features":{
-            "code":"dd9cfecd-0505-4a47-879c-168164bbb169",
+            "code":"key_22c9787ef8af45668e93b3d79067cae3",
             "explain":"(auto inject)auto start LonelyScreen.exe",
             "cmds":[
                 "LonelyScreen.exe"
             ],
             "icon":"logo/quickcommand.png",
             "platform":[
-                "win32"
+                "win32",
+                "linux",
+                "darwin"
             ]
         },
         "program":"quickcommand",
@@ -557,18 +701,25 @@
             "scriptCode":"",
             "outputCode":""
         },
-        "tags":[]
+        "tags":[],
+        "customOptions":{
+            "bin":"",
+            "argv":"",
+            "ext":""
+        }
     },
-    "322152c0-3383-4843-a342-12362d6a8f25":{
+    "key_608ac09729a143ec9081189628952c32":{
         "features":{
-            "code":"322152c0-3383-4843-a342-12362d6a8f25",
+            "code":"key_608ac09729a143ec9081189628952c32",
             "explain":"(auto inject)auto start geek.exe",
             "cmds":[
                 "geek.exe"
             ],
             "icon":"logo/quickcommand.png",
             "platform":[
-                "win32"
+                "win32",
+                "linux",
+                "darwin"
             ]
         },
         "program":"quickcommand",
@@ -580,6 +731,11 @@
             "scriptCode":"",
             "outputCode":""
         },
-        "tags":[]
+        "tags":[],
+        "customOptions":{
+            "bin":"",
+            "argv":"",
+            "ext":""
+        }
     }
 }

@@ -86,7 +86,7 @@ def update_quickCommand(new_explains, lnk_dirs):
     origin_explains = [d[key]['features']['explain'] for key in d.keys()]
     for e, l in zip(new_explains, lnk_dirs):
         if e not in origin_explains:
-            key = str(uuid4())
+            key = "key_" + str(uuid4()).replace('-', '')
             link_dir = l.replace('\\', '\\\\')
             d[key] = {
                 "features": {
@@ -98,6 +98,8 @@ def update_quickCommand(new_explains, lnk_dirs):
                     "icon": "logo/quickcommand.png",
                     "platform": [
                         "win32",
+                        "linux",
+                        "darwin"
                     ]
                 },
                 "program": "quickcommand",
@@ -109,7 +111,12 @@ def update_quickCommand(new_explains, lnk_dirs):
                     "scriptCode": "",
                     "outputCode": ""
                 },
-                "tags": []
+                "tags": [],
+                "customOptions":{
+                    "bin": "",
+                    "argv": "",
+                    "ext": ""
+                }
             }
     with open('quickCommand_modified.json', 'w') as f:
         json.dump(d, fp=f, indent=4, separators=',:')
