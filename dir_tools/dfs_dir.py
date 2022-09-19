@@ -2,6 +2,7 @@
 #获取以当前根目录下所有重名文件
 #按修改时间降序排列
 #格式化后存入json文件
+# 20220919 just use git... do not need this tool anymore...
 import os
 import time
 import json
