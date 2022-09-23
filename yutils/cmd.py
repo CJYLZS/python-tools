@@ -57,6 +57,11 @@ class cmd_base():
             if len(short_name) > 0:
                 self.opt_short_args[short_name] = arg
 
+    def __is_opt(self, _str):
+        rule1 = re.compile(r'-[a-zA-Z]+')
+        rule2 = re.compile(r'--[a-zA-Z]+')
+        return len(re.sub(rule1, "", _str)) == 0 or len(re.sub(rule2, "", _str)) == 0
+
     def __init_sys_argv(self):
 
         def add_to_sys_arg(arg, value):
@@ -69,13 +74,13 @@ class cmd_base():
             if isinstance(default_value, bool):
                 add_to_sys_arg(arg, True)
             elif isinstance(default_value, str):
-                if i + 1 < len(sys.argv):
+                if i + 1 < len(sys.argv) and not self.__is_opt(sys.argv[i + 1]):
                     add_to_sys_arg(arg, sys.argv[i + 1])
                     i += 1
                 else:
                     add_to_sys_arg(arg, default_value)
             elif isinstance(default_value, int):
-                if i + 1 < len(sys.argv):
+                if i + 1 < len(sys.argv) and not self.__is_opt(sys.argv[i + 1]):
                     add_to_sys_arg(arg, int(sys.argv[i + 1]))
                     i += 1
                 else:

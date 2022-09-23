@@ -180,6 +180,7 @@ def __run(cmd):
         cmd = cmd.replace('sudo', '').strip()
     return sp.getstatusoutput(cmd)
 
+
 def sys_run(cmd):
     os.system(cmd)
 
