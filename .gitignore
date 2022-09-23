@@ -1,2 +1,3 @@
 cython/**/*.so
 build/
+__pycache__
